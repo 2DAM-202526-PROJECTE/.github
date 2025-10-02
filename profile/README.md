@@ -1,6 +1,9 @@
 ## Perfil públic de l'organització 2DAM-202526-PROJECTE
 * Sol·liciteu al professor que us afegeixi a l'organització proporcionant el vostre usuari GitHub.
 
+# Guies pels reptes
+- [Guia per iniciar el repte 1](guia_inici_repte1.md)
+
 <!--
 
 **Here are some ideas to get you started:**
